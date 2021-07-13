@@ -1,0 +1,32 @@
+
+Ryan's
+
+REACT_APP_FIREBASE_API_KEY = "AIzaSyCTyy9K7pu-1C4HAG6b7JflsVTavWerq1o",
+  REACT_APP_FIREBASE_AUTH_DOMAIN = "reduxx-help-queue.firebaseapp.com",
+  REACT_APP_FIREBASE_PROJECT_ID = "reduxx-help-queue",
+  REACT_APP_FIREBASE_STORAGE_BUCKET = "reduxx-help-queue.appspot.com",
+  REACT_APP_FIREBASE_MESSAGING_SENDER_ID = "266163200388",
+  REACT_APP_FIREBASE_APP_ID = "1:266163200388:web:1fff0c35ea923d54a3fdd1"
+
+
+Brent's 
+
+  REACT_APP_FIREBASE_API_KEY = "AIzaSyBCBhaUCgwnhxNrg8CkEuDctvMQtlKih_A",
+REACT_APP_FIREBASE_AUTH_DOMAIN = "fir-helpq.firebaseapp.com",
+REACT_APP_FIREBASE_PROJECT_ID = "fir-helpq",
+REACT_APP_FIREBASE_STORAGE_BUCKET = "fir-helpq.appspot.com",
+REACT_APP_FIREBASE_MESSAGING_SENDER_ID = "563309925190",
+REACT_APP_FIREBASE_APP_ID = "1:563309925190:web:121e33d8d1c4c47997cb47"
+
+REACT_APP_FIREBASE_APP_MEASUREMENT = "G-6LG3J7TVX2"
+
+
+SKIP_PREFLIGHT_CHECK=true
+
+ apiKey: "AIzaSyBCBhaUCgwnhxNrg8CkEuDctvMQtlKih_A",
+    authDomain: "fir-helpq.firebaseapp.com",
+    projectId: "fir-helpq",
+    storageBucket: "fir-helpq.appspot.com",
+    messagingSenderId: "563309925190",
+    appId: "1:563309925190:web:121e33d8d1c4c47997cb47",
+    measurementId: "G-6LG3J7TVX2"rm 
